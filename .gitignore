@@ -1,3 +1,21 @@
-node_modules/
+# Node.js backend
+Q1/Backend/node_modules/
+Q1/Backend/.env
+
+Q2/Backend/node_modules/
+Q2/Backend/.env
+
+# React frontend
+Q1/Frontend myapp/node_modules/
+Q1/Frontend myapp/build/
+
+Q2/Frontend myapp/node_modules/
+Q2/Frontend myapp/build/
+
+# MacOS
 .DS_Store
-.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
